@@ -1,6 +1,10 @@
 👋 Hi, I’m Anthony Cava.
-🎓I'm a recent software development graduate from the University of South Australia.
-Now that I have a lot of free time, I am currently working towards building projects that I'm truly passionate about. 😀
+
+📍 Currently living in Adelaide, South Australia. Originally from The Philippines 🇵🇭.
+
+🎓 I'm a recent software development graduate from the University of South Australia.
+
+❤️‍🔥 Now that I have a lot of free time, I am currently working towards building projects that I'm truly passionate about. 😀
 
 👀 I’m interested in mobile app development, games development, and machine learning.
 
