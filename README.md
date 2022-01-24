@@ -11,3 +11,7 @@
 🌱 I’m currently learning Swift to build iOS apps. My goal is to publish my first app this year!
 
 📫 How to reach me: anthonyjohn.cava@gmail.com
+
+Other links:
+linkedin.com/in/anthonyjohncava
+hackerrank.com/anthonyjohncava
