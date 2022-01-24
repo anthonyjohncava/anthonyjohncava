@@ -13,5 +13,7 @@
 📫 How to reach me: anthonyjohn.cava@gmail.com
 
 Other links:
-linkedin.com/in/anthonyjohncava
-hackerrank.com/anthonyjohncava
+
+www.linkedin.com/in/anthonyjohncava
+
+www.hackerrank.com/anthonyjohncava
